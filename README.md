@@ -21,4 +21,5 @@ There are many sources of public sentiment e.g. public interviews, opinion polls
 <br />
 The output looks like : <br />
 ![](sentiment.gif)
+![WhatsApp Image 2025-03-22 at 4 55 03 PM](https://github.com/user-attachments/assets/94d614ea-d400-4047-aaad-765e3e44f9a7)
 
